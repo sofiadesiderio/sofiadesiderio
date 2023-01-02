@@ -5,10 +5,10 @@
 </div>
 
 ### olá 🖖 seja bem-vind@, pode me chamar de sofi ;)
-> para quem não sabe...
-- 📚 sou graduanda em Engenharia de Software na Universidade Federal do Ceará
-- 🤓 gosto muito de aprender novas tecnologias
-- 👶 me arrisco como desenvolvedora sandy
+para quem não sabe...
+> 📚 sou graduanda em Engenharia de Software na Universidade Federal do Ceará <br>
+> 🤓 gosto muito de aprender novas tecnologias <br>
+> 👶 me arrisco como desenvolvedora sandy
 
 ### linguagens e ferramentas
 <p align="left"> 
