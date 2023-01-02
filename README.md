@@ -6,7 +6,7 @@
 
 ### olá 🖖 seja bem-vind@, pode me chamar de sofi ;)
 > para quem não sabe...
-- 📚 sou estudante de Engenharia de Software na Universidade Federal do Ceará
+- 📚 sou graduanda em Engenharia de Software na Universidade Federal do Ceará
 - 🤓 gosto muito de aprender novas tecnologias
 - 👶 me arrisco como desenvolvedora sandy
 
