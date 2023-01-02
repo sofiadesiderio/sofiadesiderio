@@ -7,7 +7,7 @@
 ### olá 🖖 seja bem-vind@, pode me chamar de sofi ;)
 
 > 👩‍🎓 sou graduanda em Engenharia de Software na Universidade Federal do Ceará <br>
-> 🤓 entusiasta apaixonada de tecnologia e inovação <br>
+> 🤓 entusiasta apaixonada por tecnologia e inovação <br>
 > 👶 me arrisco como desenvolvedora sandy
 
 ### linguagens e ferramentas
