@@ -8,7 +8,7 @@
 
 > 👩‍🎓 sou graduanda em Engenharia de Software pela Universidade Federal do Ceará <br>
 > 🤓 entusiasta apaixonada por tecnologia e inovação <br>
-> 💻 estudante de desenvolvimento web front-end
+> 💻 estudante de <b>desenvolvimento web front-end</b>
 
 ### linguagens e ferramentas
 <p align="left">
