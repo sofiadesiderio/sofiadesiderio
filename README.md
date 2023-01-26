@@ -8,7 +8,8 @@
 
 > 👩‍🎓 sou graduanda em Engenharia de Software pela Universidade Federal do Ceará <br>
 > 🤓 entusiasta apaixonada por tecnologia e inovação <br>
-> 💻 estudante de <b>desenvolvimento web front-end</b>
+> 💻 estudante de <b>desenvolvimento web front-end</b> <br>
+> 📝 autora de alguns textos lá na [Medium](https://medium.com/@sofiadesiderio)
 
 ### linguagens e ferramentas
 <p align="left">
@@ -34,6 +35,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-
-### + conteúdos
-sim, eu também escrevo textinhos lá na [Medium](https://medium.com/@sofiadesiderio) 🤓
